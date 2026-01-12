@@ -15,6 +15,7 @@ Pastebin: ipsBruno | Drakins
 
 
 <img width="1720" height="860" alt="image" src="https://github.com/user-attachments/assets/2be107dd-428b-43b0-b59d-bd1a5c04c0eb" />
+
 _A $10 wallet for you_
 
 <img width="1673" height="452" alt="image" src="https://github.com/user-attachments/assets/eab7b389-fcea-46e5-96f5-a2168f54e1d5" />
