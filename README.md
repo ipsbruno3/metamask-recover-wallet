@@ -182,7 +182,6 @@ We deliver high-performance forensic tooling and can also build dedicated hardwa
 
 Request a quote for your case.
 
----
 
 ## License
 
