@@ -11,7 +11,7 @@ Pastebin: ipsBruno | Drakins
 ---
 
 
-# MetaMask Recovery Wallet
+# MetaMask Recovery Wallet 🦊
 
 
 <img width="1720" height="860" alt="image" src="https://github.com/user-attachments/assets/2be107dd-428b-43b0-b59d-bd1a5c04c0eb" />
@@ -20,7 +20,6 @@ Pastebin: ipsBruno | Drakins
 <img width="1677" height="846" alt="image" src="https://github.com/user-attachments/assets/313c12f1-6847-4fe2-91a1-f1f957a8acea" />
 
 
-# MetaMask Recovery Wallet  🦊🔍
 
 This tool **decompresses/parses Chrome’s LevelDB** entries used by the MetaMask extension, identifies MetaMask’s internal `state`, and reads controller data such as:
 
