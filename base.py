@@ -33,7 +33,7 @@ def ipsbruno_ascii_text():
 
 💀 Recovering MetaMask Files
 🌐 Website: https://ipsbruno.me
-📧 E-mail: bsbruno@pm.me
+📧 E-mail: bsbruno@pm.me (Wallet Recovery Sevices)
 
 1. Read extension files from Chrome
 2. Extract then with LevelDB
@@ -129,7 +129,7 @@ for tag_len in (16, 12, 32):
         pt = cipher.decrypt_and_verify(ct, tag)
         break
     except Exception as e:
-        print("❌ Password inválid: ", e)
+        print("❌  Invalid Password: ", e)
 
 
 if pt:
